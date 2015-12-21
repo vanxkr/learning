@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1437451336 source:d:\users\xyx_0\desktop\mygit\learning\learnc++\inheritclass002\animal.cpp
+	"animal.h"
+
+1437450597 d:\users\xyx_0\desktop\mygit\learning\learnc++\inheritclass002\animal.h
+	<iostream>
+	<string>
+
+1437451614 source:d:\users\xyx_0\desktop\mygit\learning\learnc++\inheritclass002\dog.cpp
+	"dog.h"
+
+1437451506 d:\users\xyx_0\desktop\mygit\learning\learnc++\inheritclass002\dog.h
+	"animal.h"
+
+1437451055 source:d:\users\xyx_0\desktop\mygit\learning\learnc++\inheritclass002\main.cpp
+	<iostream>
+	"Animal.h"
+	"Dog.h"
+
